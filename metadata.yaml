@@ -1,0 +1,48 @@
+_repo: Anarchism-and-Other-Essays_2162
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Havel, Hippolyte
+    gutenberg_agent_id: '1122'
+    url: http://www.gutenberg.org/2009/agents/1122
+creator:
+  author:
+    agent_name: Goldman, Emma
+    birthdate: 1869
+    deathdate: 1940
+    gutenberg_agent_id: '840'
+    url: http://www.gutenberg.org/2009/agents/840
+    wikipedia: http://en.wikipedia.org/wiki/Emma_Goldman
+description: 'Indhold: Biographic sketch ; Preface ; Anarchism: what it really stands
+  for ; Minorities versus majorities ; The psychology of political violence ; Prisons:
+  a social crime and failure ; Patriotism: a menace to liberty ; Francisco Ferrer
+  and the modern school ; The hypocrisy of puritanism ; The traffic in women ; Woman
+  suffrage ; The tragedy of woman''s emancipation ; Marriage and love ; The drama:
+  a powerful disseminator of radical thought'
+gutenberg_bookshelf:
+- Politics
+- Atheism
+- Suffrage
+- Anarchism
+gutenberg_issued: '2000-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2162'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Women -- Social and moral questions'
+- !lcsh 'Feminism'
+- !lcsh 'Anarchism'
+- GITenberg
+tableOfContents: 'Biographic Sketch ­ Preface -- Anarchism: What It Really Stands
+  For -- Minorities Versus Majorities -- The Psychology of Political Violence -- Prisons:
+  A Social Crime and Failure -- Patriotism: A Menace to Liberty -- Francisco Ferrer
+  and The Modern School -- The Hypocrisy of Puritanism -- The Traffic in Women --
+  Woman Suffrage -- The Tragedy of Woman''s Emancipation -- Marriage and Love -- The
+  Drama: A Powerful Disseminator of Radical Thought.'
+title: Anarchism and Other Essays
+url: http://www.gutenberg.org/ebooks/2162
