@@ -1,10 +1,13 @@
 _repo: Anarchism-and-Other-Essays_2162
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Havel, Hippolyte
     gutenberg_agent_id: '1122'
     url: http://www.gutenberg.org/2009/agents/1122
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Goldman, Emma
@@ -19,6 +22,8 @@ description: 'Indhold: Biographic sketch ; Preface ; Anarchism: what it really s
   and the modern school ; The hypocrisy of puritanism ; The traffic in women ; Woman
   suffrage ; The tragedy of woman''s emancipation ; Marriage and love ; The drama:
   a powerful disseminator of radical thought'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2162#Anarchism-and-Other-Essays
 gutenberg_bookshelf:
 - Politics
 - Atheism
